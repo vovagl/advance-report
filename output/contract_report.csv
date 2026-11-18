@@ -1,0 +1,3 @@
+﻿contract_id;contractor;contract_amount;total_work_price;active_work_price;cancelled_work_price;paid_total;allocated_paid;unallocated_paid;work_remaining;contract_balance;contract_difference
+D-1;Студия «Свет»;600000.00;600000.00;500000.00;100000.00;315000.00;315000.00;0.00;185000.00;285000.00;100000.00
+D-2;Иван Петров, дизайнер;90000.00;90000.00;90000.00;0.00;75000.00;75000.00;0.00;15000.00;15000.00;0.00
